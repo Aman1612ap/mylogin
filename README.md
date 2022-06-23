@@ -3,12 +3,6 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>login page</title>
-	<script >
-		// let fun(){
-		// 	document.write('succses');
-		// }
-	</script>
 	<header><h1 style="text-align: center; color: yellowgreen;">Login Page</h1></header>
 </head>
 
